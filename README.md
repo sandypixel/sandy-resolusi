@@ -1,5 +1,5 @@
 # sandy-resolusi
-repository pertama saya
-tugas kelompok RTI
 #tugas-kelompok
 1. judul
+2. penelltian
+3. olah data
