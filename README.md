@@ -1,3 +1,3 @@
 # sandy-resolusi
 repository pertama saya
-kedua
+tugas kelompok RTI
